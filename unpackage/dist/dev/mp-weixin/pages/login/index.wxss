@@ -1,0 +1,49 @@
+.login-logo {
+  height: 40vh;
+  width: 100%;
+  margin-bottom: 2vh;
+}
+.flex-item-V {
+  width: 100%;
+  height: 250rpx;
+  text-align: center;
+  line-height: 150rpx;
+}
+.text-input {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 30rpx;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: -1px;
+}
+.text-input .iconfont {
+  margin: 20rpx;
+}
+.text-input .login-text {
+  height: 6vh;
+  line-height: 6vh;
+  width: 120rpx;
+}
+.text-input .uni-eye-active {
+  color: #007AFF;
+}
+.text-input .uni-icon {
+  height: 6vh;
+  line-height: 6vh;
+  margin-right: 10rpx;
+}
+.rem-pwd {
+  font-size: 30rpx;
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+}
+.rem-pwd .rem-text {
+  margin-left: 10rpx;
+}
+.login-btn {
+  width: 500rpx;
+  margin-top: 50rpx;
+}
+
